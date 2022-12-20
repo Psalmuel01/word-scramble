@@ -84,16 +84,17 @@ body {
 
 
 @media (max-width: 768px) {
+
     .container {
-        width: 70%;
+        width: 88%;
     }
 
     .container h2 {
-        font-size: 1.125rem;
+        font-size: 1rem;
     }
 
     .content .word {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .details p {
